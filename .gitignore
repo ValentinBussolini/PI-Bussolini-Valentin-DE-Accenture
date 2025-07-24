@@ -1,0 +1,6 @@
+# Archivos de entorno y config
+.env
+
+# Docker y volúmenes
+pgadmin_data/
+postgres_db/
